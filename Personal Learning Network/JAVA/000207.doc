@@ -122,6 +122,7 @@ public class Sample {
 
 
 
+
 008
 
 public class Sample {
@@ -131,6 +132,7 @@ public class Sample {
         System.out.println(result);  // 138,129,142 출력
     }
 }
+
 
 
 
@@ -148,7 +150,3 @@ public class Sample {
         System.out.println(pitches);  // [129, 138, 142] 출력
     }
 }
-
-
-
-
